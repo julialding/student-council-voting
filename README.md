@@ -1,2 +1,2 @@
-# student-council-voting
-Storing scripts that ensure all student council voting-related activities (ex. elections, court) are done securely.
+# Student Council Voting
+This repository stores all the scripts that ensure all student council voting-related activities (ex. elections, court) are done securely.
